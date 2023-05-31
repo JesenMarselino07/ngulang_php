@@ -1,0 +1,11 @@
+body{
+
+    background-image: url(city.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+
+.a{
+    color: aliceblue;
+}

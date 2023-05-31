@@ -1,0 +1,19 @@
+body{
+
+    background-image: url(keren.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
+.table{
+    color: aqua;
+    border-collapse: collapse;
+    
+}
+.tr{
+    color: aliceblue;
+}
+
+.a{
+    color: white;
+}
